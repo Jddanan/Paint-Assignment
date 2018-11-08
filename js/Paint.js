@@ -18,4 +18,5 @@ canvas.addEventListener("mousedown", function () {
 
 canvas.addEventListener("click",function(){
     canvas.removeEventListener("mousemove",draw)
+
 })
